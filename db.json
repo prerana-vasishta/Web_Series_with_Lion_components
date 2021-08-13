@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "title": "how to",
+      "director": "laksjdd",
+      "stars": "lkja",
+      "streaming": "hbo",
+      "id": 1
+    },
+    {
+      "title": "how to 2",
+      "director": "laksjdd 2",
+      "stars": "lkja",
+      "streaming": "hbo",
+      "id": 2
+    },
+    {
+      "title": "lksjdf",
+      "director": "lka",
+      "stars": "lkajsl",
+      "streaming": "netflix",
+      "id": 3
+    },
+    {
+      "title": "lksjd",
+      "director": "lks",
+      "stars": "lksj",
+      "streaming": "amazon prime",
+      "id": 4
+    },
+    {
+      "title": "lks",
+      "director": "lks",
+      "stars": "lskjlwskj",
+      "streaming": "amazon prime",
+      "id": 5
+    },
+    {
+      "title": "lks",
+      "director": "lksjlsk",
+      "stars": "lslslk",
+      "streaming": "hotstar",
+      "id": 6
+    },
+    {
+      "title": "extra",
+      "director": "lksj",
+      "stars": "lkjs",
+      "streaming": "amazon prime",
+      "id": 7
+    },
+    {
+      "title": "extra",
+      "director": "lksj",
+      "stars": "lkjs",
+      "streaming": "amazon prime",
+      "id": 8
+    },
+    {
+      "title": "new",
+      "director": "lskj",
+      "stars": "lskj",
+      "streaming": "hbo",
+      "id": 9
+    },
+    {
+      "title": "r2163",
+      "director": "ef",
+      "stars": "fjbhrf",
+      "streaming": "hotstar",
+      "id": 10
+    }
+  ]
+}
